@@ -64,11 +64,11 @@
 
 ---
 
-## 💡 Random Dev Quote
+## 🎵 Now Playing on Spotify
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+[![Spotify](https://spotify-now-playing-phi-lemon.vercel.app/api/orchestrator)](https://open.spotify.com)
 
 </div>
 
