@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hi+%F0%9F%91%8B+I'm+Tunahan+H%C3%BCsem;System+%26+Cloud+Engineer;DevOps+Enthusiast+%7C+Cybersecurity)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hi+%F0%9F%91%8B+I'm+JusTuna;System+%26+Cloud+Engineer;DevOps+Enthusiast+%7C+Cybersecurity)](https://git.io/typing-svg)
 
 </div>
 
@@ -64,15 +64,11 @@
 
 ---
 
-## 📊 GitHub Stats
+## 💡 Random Dev Quote
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=justun4&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=justun4&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justun4&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
