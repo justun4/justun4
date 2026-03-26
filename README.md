@@ -16,6 +16,16 @@
 
 ---
 
+## 🎵 Now Playing on Spotify
+
+<div align="center">
+
+[![Spotify](https://spotify-now-playing-phi-lemon.vercel.app/api/orchestrator)](https://open.spotify.com)
+
+</div>
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Cloud & Virtualization
@@ -61,16 +71,6 @@
 ### Design & Media
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Video Editing](https://img.shields.io/badge/Video_Editing-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
-
----
-
-## 🎵 Now Playing on Spotify
-
-<div align="center">
-
-[![Spotify](https://spotify-now-playing-phi-lemon.vercel.app/api/orchestrator)](https://open.spotify.com)
-
-</div>
 
 ---
 
